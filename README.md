@@ -3,6 +3,8 @@
 ## Overview
 This project is designed to help individuals manage their finances effectively. It includes features for tracking expenses, creating budgets, analyzing financial trends, and generating financial reports. By using this application, users can gain a better understanding of their spending patterns and take control of their financial health.
 
+![image_alt](https://github.com/iamanirudhnair/Personal_Finance/blob/main/Finance%20Dashboard.png?raw=true)
+
 ## What I Learned
 
 - **Financial Data Management**: I learned how to manage and organize financial data, including income, expenses, and savings. This was a key part of the project, as organizing data accurately is essential to providing meaningful financial insights.
